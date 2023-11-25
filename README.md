@@ -24,6 +24,6 @@ These technologies are the building blocks of our software solutions, enabling u
 
 ---
 ### Get in Touch
-Interested in our services? Feel free to reach out to us at devbedaconsult@gmail.com or visit our website at [www.example.com](https://bedaconsult.com) to learn more about how we can assist your business.
+Interested in our services? Feel free to reach out to us at devbedaconsult@gmail.com or visit our website at [www.bedaconsult.com](https://bedaconsult.com) to learn more about how we can assist your business.
 
 We look forward to working with you!
