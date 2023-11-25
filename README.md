@@ -24,9 +24,6 @@ These technologies are the building blocks of our software solutions, enabling u
 
 ---
 ### Get in Touch
-Interested in our services? Feel free to reach out to us at contact@example.com or visit our website at www.example.com to learn more about how we can assist your business.
-
-We look forward to working with you!IT Consulting Firm
-Welcome to the repository of our IT consulting firm! Here, we provide information about our services and the technologies we use for developing cutting-edge software applications.
+Interested in our services? Feel free to reach out to us at devbedaconsult@gmail.com or visit our website at [www.example.com](https://bedaconsult.com) to learn more about how we can assist your business.
 
 We look forward to working with you!
