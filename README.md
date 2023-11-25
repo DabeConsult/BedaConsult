@@ -1,4 +1,4 @@
-# Dabe Consult
+# Beda Consult
 Welcome to the repository of our IT consulting firm! Here, we provide information about our services and the technologies we use for developing cutting-edge software applications.
 
 ## About Us
